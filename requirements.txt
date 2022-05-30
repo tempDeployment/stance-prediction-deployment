@@ -1,4 +1,6 @@
-https://download.pytorch.org/whl/cpu/torch-1.10.2%2Bcpu-cp39-cp39-linux_x86_64.whl
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.10.2+cpu 
+torchvision==1.10.2+cpu
 fastai==2.5.3
 Flask==1.1.2
 numpy==1.20.3
